@@ -47,3 +47,15 @@ body {
     font-weight: bold;
   }
   
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; /* Ajuste a altura conforme necessário */
+  }
+  
+  .imagem-ajustada {
+    width: 400px; /* Ajuste a largura conforme necessário */
+    height: 400px; /* Ajuste a altura conforme necessário */
+    border-radius: 200px;
+  }
